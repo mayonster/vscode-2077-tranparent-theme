@@ -644,7 +644,7 @@
 		"progressBar.background":"#fa0dea",
 
 		// Editor
-		"editor.background": "#030d22",
+		"editor.background": "#030d2266",
 		"editor.foreground": "#fdfeff",
 		"editorLineNumber.foreground":"#ee0077",
 		"editorLineNumber.activeForeground": "#47a1fa",
